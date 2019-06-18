@@ -1,0 +1,8 @@
+x=float(input("數字1"))
+y=float(input("數字2"))
+z=float(input("數字3"))
+a=float(input("數字4"))
+b=float(input("數字5"))
+print(x,y,z,a,b)
+print("sum=%.1f" %(x+y+z+a+b))
+print("average=%.1f" %((x+y+z+a+b)/5))

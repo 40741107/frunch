@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:#00FFFF;
+	font-family:Microsoft JhengHei;
+}
+#nav{
+	background-color:#EAC898;
+	text-align:center;
+}
+#nav ul{
+	display:inline-block;
+}
+#nav li{
+	float:left;
+	list-style-type:none;
+}
+#nav a{
+	display:block;
+	padding:15px 50px;
+	color:brown;
+	text-decoration:none;
+}
+.uu{
+	margin:0 auto;
+	padding:30px 50px;
+} 
+.container{
+	padding:30px 50px;
+	height:50px;
+} 
+.container img{
+	height:300px;
+} 

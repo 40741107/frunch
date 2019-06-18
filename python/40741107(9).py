@@ -1,0 +1,17 @@
+a=eval(input("請輸入數字:"))
+b=eval(input("請輸入數字:"))
+c=str(input())
+if(c=="+"):
+   print(a+b)
+elif(c=="-"):
+   print(a-b)
+elif(c=="*"):
+   print(a*b)
+elif(c=="/"):
+   print(a/b)
+elif(c=="%"):
+   print(a%b)
+elif(c=="//"):
+   print(a//b)
+elif(c=="**"):
+   print(a**b)
